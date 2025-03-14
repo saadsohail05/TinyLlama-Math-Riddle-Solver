@@ -63,8 +63,8 @@ streamlit run app.py
 
 Check out the [examples](examples/) directory for sample interactions with the model. The examples folder contains screenshots demonstrating various use cases and model responses.
 
-![Example 1](examples/1.png)
-![Example 2](examples/2.png)
+<img src="examples/1.png" width="600" alt="Example 1">
+<img src="examples/2.png" width="600" alt="Example 2">
 
 ## Model Details
 
