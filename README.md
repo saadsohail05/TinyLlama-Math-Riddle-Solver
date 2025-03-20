@@ -3,6 +3,7 @@
 A fine-tuned TinyLlama model specialized in solving mathematical riddles and puzzles. The model has been trained on a diverse dataset of mathematical riddles and their solutions, making it adept at understanding and solving various types of math puzzles.
 
 Model Available at: [saadsohail/TinyLlama-math-riddle-solver](https://huggingface.co/saadsohail/TinyLlama-math-riddle-solver)
+
 Blog at:[Riddles, Emojis, and Memes with Maths, featuring Tiny Llama, Deepseek, and Phi-4 fine tuning](https://medium.com/@basil451287/riddles-emojis-and-memes-with-maths-featuring-tiny-llama-deepseek-r1-and-phi-4-fine-tuning-c7aadc00a438)
 
 ## Features
